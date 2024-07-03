@@ -62,5 +62,4 @@ export class MainPage{
             return text.trim();
         });
     }
-
 }
